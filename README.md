@@ -105,7 +105,7 @@ Sensitive API endpoints and credentials are intentionally excluded.
 |------|-------------|
 | HOOT LRWS Analytics Dashboard.pbix | Main Power BI dashboard file |
 | README.md | Project documentation |
-| screenshots/ | Dashboard preview images |
+| dashboard_pages.md | Clear description of every page in Dashboard |
 | api.md | API integration details |
 | dax_measures.md | DAX logic documentation |
 
